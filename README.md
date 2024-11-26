@@ -2,6 +2,7 @@ Nama : Alfido Mazdan Marsyadi
 NIM  : H1D022084
 Shift B
 
+![{CABD3148-95EA-4C51-A0A6-DE0B937B8472}](https://github.com/user-attachments/assets/01ac5e60-8f0e-4830-a712-8a9069ec2a14)
 ![{90D613E0-F1F0-49EE-98E1-66BE7067FD4E}](https://github.com/user-attachments/assets/b140422b-55c1-4105-876a-c4f6cf1cb55d)
 ![{380053D7-C11A-4935-9ECD-A80EA99F5AC0}](https://github.com/user-attachments/assets/f975fd57-ee67-4838-8314-a9348d43cd10)
 1. Create
